@@ -19,9 +19,12 @@
 * **Uvicorn**
 
 ### Display of Functions
-
+![Jpeg-1](https://raw.githubusercontent.com/UmitEkmekci/ToDoList/a50ec0852dd395e3ca6d5c9fe0a3ccfdbd7a8dfb/jpeg1.PNG)
+<br/>
 After entering the item in the input area, the "add" button is clicked.
 
+![Jpeg-1](https://raw.githubusercontent.com/UmitEkmekci/ToDoList/a50ec0852dd395e3ca6d5c9fe0a3ccfdbd7a8dfb/jpeg1.PNG)
+<br/>
 As seen in this image, the item has been added to the list.
 
 
